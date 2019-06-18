@@ -25,6 +25,7 @@ distribution:
   langcode: en
 
 # Modules to install to support the profile.
+install:
   - address
   - anchor_link
   - automated_cron
