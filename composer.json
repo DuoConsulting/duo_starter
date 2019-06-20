@@ -1,0 +1,16 @@
+{
+    "name": "duoconsulting/duo_starter",
+    "type": "drupal-custom-profile",
+    "description": "Provides a default installation profile for Duo Consulting.",
+    "keywords": [
+        "drupal",
+        "installation",
+        "profile"
+    ],
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "Duo Consulting"
+        }
+    ]
+}
