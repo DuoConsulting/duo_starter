@@ -1,6 +1,6 @@
 {
     "name": "duoconsulting/duo_starter",
-    "type": "drupal-custom-profile",
+    "type": "drupal-profile",
     "description": "Provides a default installation profile for Duo Consulting.",
     "keywords": [
         "drupal",
