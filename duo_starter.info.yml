@@ -32,7 +32,6 @@ install:
   - block_content
   - block_field
   - breakpoint
-  - ckeditor_indentblock
   - color
   - config_filter
   - config_ignore
@@ -52,7 +51,6 @@ install:
   - google_tag
   - layout_builder
   - layout_discovery
-  - libraries
   - link
   - linkit
   - menu_link_content
@@ -81,7 +79,6 @@ dependencies:
   - block
   - ckeditor
   - config
-  - ctools
   - field
   - file
   - image
@@ -91,6 +88,7 @@ dependencies:
   - pathauto
   - token
   - toolbar
+  - vendor_stream_wrapper
   - views
   - user
 
