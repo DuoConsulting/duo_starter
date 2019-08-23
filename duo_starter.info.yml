@@ -44,6 +44,12 @@ install:
   - datetime
   - dblog
   - devel
+  - duo_blocks
+  - duo_blocks_text
+  - duo_blocks_hero
+  - duo_blocks_image
+  - duo_layout_page
+  - duo_layouts
   - dynamic_page_cache
   - editor
   - entity_reference_revisions
