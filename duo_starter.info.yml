@@ -45,11 +45,14 @@ install:
   - dynamic_page_cache
   - editor
   - entity_reference_revisions
+  - environment_indicator
   - field_group
   - field_ui
   - filter
   - google_tag
   - layout_builder
+  - layout_builder_modal
+  - layout_builder_restrictions
   - layout_discovery
   - link
   - linkit
