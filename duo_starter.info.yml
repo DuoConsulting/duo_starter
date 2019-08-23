@@ -42,6 +42,8 @@ install:
   - contact_storage
   - contextual
   - datetime
+  - dblog
+  - devel
   - dynamic_page_cache
   - editor
   - entity_reference_revisions
@@ -50,6 +52,7 @@ install:
   - field_ui
   - filter
   - google_tag
+  - help
   - layout_builder
   - layout_builder_modal
   - layout_builder_restrictions
