@@ -68,6 +68,7 @@ install:
   - responsive_image
   - rh_node
   - search
+  - seckit
   - shortcut
   - simple_sitemap
   - smart_trim
