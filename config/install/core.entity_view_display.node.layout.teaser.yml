@@ -1,0 +1,23 @@
+langcode: en
+status: false
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.layout.field_layout_hide_title
+    - field.field.node.layout.layout_builder__layout
+    - node.type.layout
+  module:
+    - user
+id: node.layout.teaser
+targetEntityType: node
+bundle: layout
+mode: teaser
+content:
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  field_layout_hide_title: true
+  layout_builder__layout: true

@@ -1,0 +1,21 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: layout_pages
+label: 'Layout pages'
+type: 'canonical_entities:node'
+pattern: '[node:title]'
+selection_criteria:
+  87eba77a-dc65-49f9-aa9a-c5ce538bab4a:
+    id: node_type
+    bundles:
+      layout: layout
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 87eba77a-dc65-49f9-aa9a-c5ce538bab4a
+selection_logic: and
+weight: -5
+relationships: {  }

@@ -1,0 +1,19 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: nodes
+label: Nodes
+description: 'Links to nodes.'
+attributes: {  }
+matchers:
+  fb14a871-047d-48b8-b279-94444e5d6215:
+    uuid: fb14a871-047d-48b8-b279-94444e5d6215
+    id: 'entity:node'
+    weight: 0
+    settings:
+      result_description: '[node:title]'
+      bundles: {  }
+      group_by_bundle: true
+      include_unpublished: false
