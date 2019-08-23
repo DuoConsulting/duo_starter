@@ -100,23 +100,19 @@
         },
         "duoconsulting/duo_blocks": {
             "url": "https://github.com/DuoConsulting/duo_blocks",
-            "type": "git",
-            "reference": "origin/master"
+            "type": "git"
         },
         "duoconsulting/duo_foundation": {
             "url": "https://github.com/DuoConsulting/duo_foundation",
-            "type": "git",
-            "reference": "origin/master"
+            "type": "git"
         },
         "duoconsulting/duo_layout_page": {
             "url": "https://github.com/DuoConsulting/duo_layout_page",
-            "type": "git",
-            "reference": "origin/master"
+            "type": "git"
         },
         "duoconsulting/duo_layouts": {
             "url": "https://github.com/DuoConsulting/duo_layouts",
-            "type": "git",
-            "reference": "origin/master"
+            "type": "git"
         }
     },
     "minimum-stability": "dev",
