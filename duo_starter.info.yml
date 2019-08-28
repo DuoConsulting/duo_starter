@@ -71,6 +71,7 @@ install:
   - page_cache
   - rdf
   - rabbit_hole
+  - redirect
   - responsive_image
   - rh_node
   - search
