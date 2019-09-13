@@ -42,8 +42,6 @@ install:
   - contact_storage
   - contextual
   - datetime
-  - dblog
-  - devel
   - duo_blocks
   - duo_blocks_text
   - duo_blocks_hero
