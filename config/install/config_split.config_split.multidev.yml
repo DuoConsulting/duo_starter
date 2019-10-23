@@ -1,14 +1,12 @@
 langcode: en
 status: false
 dependencies: {  }
-id: local
-label: local
-description: 'Settings for local and multidev environments.'
-folder: ../config/envs/split_local
+id: multidev
+label: multidev
+description: 'Settings for multidev environments.'
+folder: ../config/envs/split_multidev
 module:
   dblog: 0
-  devel: 0
-  kint: 0
 theme: {  }
 blacklist: {  }
 graylist:
