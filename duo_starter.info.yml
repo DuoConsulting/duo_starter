@@ -1,6 +1,6 @@
 name: Duo Starter
 type: profile
-description: 'Drupal installation profile for Duo Consulting.'
+description: "Drupal installation profile for Duo Consulting."
 core: 8.x
 
 # Optional: Declare your installation profile as a distribution
@@ -87,7 +87,6 @@ install:
 dependencies:
   - admin_toolbar
   - admin_toolbar_tools
-  - adminimal_admin_toolbar
   - block
   - ckeditor
   - config
