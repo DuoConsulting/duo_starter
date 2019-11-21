@@ -9,3 +9,4 @@ permissions:
   - 'access content'
   - 'use text format advanced_html'
   - 'use text format basic_html'
+  - 'view media'

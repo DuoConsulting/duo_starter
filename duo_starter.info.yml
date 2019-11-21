@@ -63,6 +63,8 @@ install:
   - layout_discovery
   - link
   - linkit
+  - media
+  - media_library
   - menu_link_content
   - menu_ui
   - options
@@ -79,7 +81,6 @@ install:
   - smart_trim
   - taxonomy
   - text
-  - video_embed_field
   - views_ui
 
 # Required modules
