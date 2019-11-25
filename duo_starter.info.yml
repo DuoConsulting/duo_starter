@@ -87,7 +87,6 @@ install:
 dependencies:
   - admin_toolbar
   - admin_toolbar_tools
-  - adminimal_admin_toolbar
   - block
   - ckeditor
   - config
