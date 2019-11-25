@@ -12,8 +12,6 @@ dependencies:
     - media
     - media_library
     - user
-_core:
-  default_config_hash: 5sfZZetHlReG1VQx9CbyIBhKFWYSZEU94dOy0yy0deE
 id: media_library
 label: 'Media library'
 module: views
