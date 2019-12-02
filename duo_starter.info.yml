@@ -65,6 +65,7 @@ install:
   - linkit
   - media
   - media_library
+  - media_library_theme_reset
   - menu_link_content
   - menu_ui
   - options
