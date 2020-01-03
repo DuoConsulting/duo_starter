@@ -6,11 +6,13 @@ label: production
 description: 'Settings for the live/prod environment.'
 folder: ../config/envs/split_prod
 module:
+  update: 0
   syslog: 0
 theme: {  }
 blacklist: {  }
 graylist:
   - system.performance
+  - update.settings
 graylist_dependents: true
 graylist_skip_equal: false
 weight: 0
