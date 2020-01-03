@@ -75,7 +75,6 @@ install:
   - redirect
   - responsive_image
   - rh_node
-  - search
   - seckit
   - shortcut
   - simple_sitemap
@@ -92,6 +91,7 @@ dependencies:
   - block
   - ckeditor
   - config
+  - duo_admin_styles
   - field
   - file
   - image
@@ -101,6 +101,7 @@ dependencies:
   - pathauto
   - token
   - toolbar
+  - toolbar_themes
   - vendor_stream_wrapper
   - views
   - user
