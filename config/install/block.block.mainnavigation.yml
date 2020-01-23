@@ -9,8 +9,8 @@ dependencies:
     - duo_foundation
 id: mainnavigation
 theme: duo_foundation
-region: top_bar_left
-weight: 0
+region: header
+weight: -4
 provider: null
 plugin: 'system_menu_block:main'
 settings:
@@ -24,6 +24,6 @@ settings:
 visibility:
   request_path:
     id: request_path
-    pages: '/user\r\n/user/login'
+    pages: "/user\r\n/user/login"
     negate: true
     context_mapping: {  }
