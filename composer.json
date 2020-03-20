@@ -91,6 +91,9 @@
             "drupal/core": "-p2"
         },
         "patches": {
+            "drupal/google_tag": {
+                "Issue #3106028: Fix typos in settings form validation": "https://www.drupal.org/files/issues/2020-03-20/google_tag-Typos_In_ContainterTrait_Validate-3106028-8.patch"
+            },
             "drupal/paragraphs": {
                 "Issue #2901390: Integrity constraint violation: 1048 Column 'langcode' cannot be null:": "https://www.drupal.org/files/issues/2019-07-10/paragraphs-set_langcode_widgets-2901390-29.patch"
             },
