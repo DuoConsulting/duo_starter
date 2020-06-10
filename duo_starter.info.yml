@@ -42,6 +42,7 @@ install:
   - contact_storage
   - contextual
   - datetime
+  - duo_admin_styles
   - duo_blocks
   - duo_blocks_text
   - duo_blocks_hero
@@ -91,7 +92,6 @@ dependencies:
   - block
   - ckeditor
   - config
-  - duo_admin_styles
   - field
   - file
   - image
