@@ -93,9 +93,6 @@
         "patches": {
             "drupal/paragraphs": {
                 "Issue #2901390: Integrity constraint violation: 1048 Column 'langcode' cannot be null:": "https://www.drupal.org/files/issues/2019-07-10/paragraphs-set_langcode_widgets-2901390-29.patch"
-            },
-            "drupal/rabbit_hole": {
-                "Issue #3066541: Do not add Rabbit Hole fields to Layout Builder form.": "https://www.drupal.org/files/issues/2019-07-08/3066541-2.patch"
             }
         }
     },
