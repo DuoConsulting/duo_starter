@@ -91,9 +91,6 @@
             "drupal/core": "-p2"
         },
         "patches": {
-            "drupal/core": {
-                "Issue #3045171: Form blocks rendered inside layout builder break save": "https://www.drupal.org/files/issues/2020-02-04/layout-builder-save-issue-3045171-140.patch"
-            },
             "drupal/paragraphs": {
                 "Issue #2901390: Integrity constraint violation: 1048 Column 'langcode' cannot be null:": "https://www.drupal.org/files/issues/2019-07-10/paragraphs-set_langcode_widgets-2901390-29.patch"
             },
