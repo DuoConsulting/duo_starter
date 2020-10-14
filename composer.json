@@ -21,7 +21,7 @@
         "drupal/contact_storage": "^1.0@beta",
         "drupal/devel": "^2.0",
         "drupal/entity_reference_revisions": "^1.6",
-        "drupal/environment_indicator": "^3.6",
+        "drupal/environment_indicator": "^4.0",
         "drupal/field_group": "^3.0",
         "drupal/google_tag": "^1.1",
         "drupal/layout_builder_modal": "^1.0@alpha",
